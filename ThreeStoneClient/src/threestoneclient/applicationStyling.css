@@ -1,0 +1,25 @@
+/*
+  Main color #e1ceb8
+  secondary color #caa881
+  input color #efe5d9
+*/
+/* 
+    Created on : 13-Oct-2019, 5:04:38 PM
+    Author     : Michael Mishin 1612993
+*/
+
+.mainColor
+{
+    -fx-background-color: #e1ceb8;
+}
+
+.secondaryColor
+{
+    -fx-background-color: #caa881;
+}
+
+.inputBackground
+{
+    -fx-background-color: #efe5d9;
+}
+
